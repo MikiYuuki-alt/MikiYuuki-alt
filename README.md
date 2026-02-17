@@ -1,5 +1,7 @@
 ## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikiYuuki-alt&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikiYuuki-alt&layout=compact&theme=radical)
 <!--
 **MikiYuuki-alt/MikiYuuki-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
